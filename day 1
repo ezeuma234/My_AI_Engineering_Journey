@@ -1,0 +1,17 @@
+<heading>
+  july 28th 2026
+  <body>
+  name = "Christopher"
+print(name[0:5])
+
+customer = "Bob"
+total = 12.0
+print(f"FUCK you, {customer}! Total: ₦{total:.2f}")
+
+sentence = "latte and espresso"
+words = sentence.split(" and ")
+print(words)
+rejoined = "-".join(words)
+print(rejoined)
+  <body>
+  #these are the things i practised today
