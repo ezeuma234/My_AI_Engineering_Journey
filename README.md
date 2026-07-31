@@ -2,13 +2,6 @@
 
 Welcome to my AI Engineering learning journey.
 
-This repository documents my progress as I learn Python, Software Engineering, and Artificial Intelligence over the next six months.
-# AI Engineering Journey
-
-Welcome to my AI Engineering learning journey.
-
-## About This Repository
-
 This repository documents my six-month journey to becoming an AI Engineer.
 
 It contains my daily lessons, coding exercises, projects, reflections, and progress as I learn Python, software engineering, artificial intelligence, and large language models.
