@@ -1,0 +1,5 @@
+print("Uma Eileen Eze")
+print("Nigeria")
+print("i want to become an ai engineer because the future is ai and i want to be a part of that future")
+print("i can do a sick backflip")
+print("you can totally do this")
