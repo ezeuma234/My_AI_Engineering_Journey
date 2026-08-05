@@ -1,0 +1,4 @@
+What I learned: I learned the anatomy of a function using def and the exact difference between parameters (the placeholders inside the definition) and arguments (the actual values passed during the call). I also covered local vs. global scope.
+What interested you: The concept of return acting as a portal that transports a value safely out of a function's temporary local scope and into the global scope so it can be reused later.
+What confused you: Remembering that variables created inside a function completely vanish when the function ends, meaning the outside code cannot see them at all without a return statement.
+What I'll improve tomorrow: Tomorrow, I will write functions that pass around returned data into other functions to build a small chain of reusable code.
