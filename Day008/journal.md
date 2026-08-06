@@ -1,0 +1,1 @@
+so far this has been totally understandable and easy to learn so thats the much i can say for now
