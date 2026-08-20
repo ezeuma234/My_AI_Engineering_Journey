@@ -1,0 +1,1 @@
+The biggest thing I learned about dictionaries today is that they store information using key-value pairs, and I can use loops, .items(), conditions, and dictionary comprehensions to efficiently access, filter, and create structured data.
