@@ -10,8 +10,7 @@ def greet():
 
 
 greet()
-
-print(message)
+print(message )
 #This produces an error because message only exists inside greet().
 
 name = "Uma"
